@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bjsffxcwh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mechanical Robot
+- 👀 I’m interested in Soft Computing & Artificial Intelligence
+- 🌱 I’m currently learning the Techniques of Data Mining
+- 💞️ I’m looking to collaborate on (No)
+- 📫 How to reach me www.cwh1992.com
 
 <!---
 bjsffxcwh/bjsffxcwh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

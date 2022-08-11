@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mechanical Robot
 - 👀 I’m interested in Soft Computing & Artificial Intelligence
-- 🌱 I’m currently learning the Techniques of Data Mining & Fuzzy Theory
+- 🌱 I’m currently working on the Techniques of Fuzzy Theory & Intelligent Systems
 - 💞️ I’m looking to collaborate on (No)
 - 📫 How to reach me: www.cwh1992.com
 
